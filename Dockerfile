@@ -1,1 +1,1 @@
-gcr.io/kfserving/models-web-app
+FROM gcr.io/kfserving/models-web-app
